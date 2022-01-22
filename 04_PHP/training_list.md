@@ -6,3 +6,6 @@
 * 配列とループ([説明](https://iwatani.tv/programming/php-array-foreach/)・[練習問題](https://iwatani.tv/programming/php-array-foreach-question/)・[解説](https://iwatani.tv/programming/php-array-foreach-answer/))
 * 連想配列([説明](https://iwatani.tv/programming/php-associative-array/)・[練習問題](https://iwatani.tv/programming/php-associative-array-question/)・[解説](https://iwatani.tv/programming/php-associative-array-answer/))
 * 連想配列とループ([説明](https://iwatani.tv/programming/php-loop-processing-with-associative-array/)・[練習問題](https://iwatani.tv/programming/php-loop-processing-with-associative-array-question/)・[解説](https://iwatani.tv/programming/php-loop-processing-with-associative-array-answer/))
+* if文([説明](https://iwatani.tv/programming/php-conditon-if/)・[練習問題](https://iwatani.tv/programming/php-conditon-if-question/)・[解説](https://iwatani.tv/programming/php-conditon-if-answer/))
+* 論理型（boolean型）（[説明](https://iwatani.tv/programming/php-boolean/%22)）
+
