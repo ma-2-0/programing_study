@@ -31,6 +31,6 @@ class Human {
     }
 }
 
-$matsuo2 = new BusinessMan("まつお", "りょうたろう", 34, "ばすけ", "エンジニア");
+$matsuo2 = new BusinessMan("やまだ", "たろう", 34, "旅行", "エンジニア");
 $matsuo2->sayHello();
 $matsuo2->sayBusinessHello();
